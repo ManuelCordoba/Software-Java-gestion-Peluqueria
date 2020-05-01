@@ -1,6 +1,6 @@
 # SimpleManagement
 Software desarrollado en java escritorio para la gestión de una peluquería.
-## Caracteristicas 
+## Características 
 - Interfaz amigable con un estilo Material Design
 - Gestión de usuarios, productos, servicios, ventas y gastos
 - Genera y lee código de barras
