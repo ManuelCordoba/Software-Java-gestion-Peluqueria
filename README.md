@@ -2,7 +2,7 @@
 Software desarrollado en java escritorio para la gestión de una peluquería.
 ## Características 
 - Interfaz amigable con un estilo Material Design
-- Envío de código de activación por correo
+- Envío de código de activación por Email
 - Gestión de usuarios, productos, servicios, ventas y gastos
 - Encriptación de la contraseña del administrador con el algoritmo AES
 - Genera y lee código de barras
