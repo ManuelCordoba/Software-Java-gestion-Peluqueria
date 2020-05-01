@@ -3,7 +3,7 @@ Software desarrollado en java escritorio para la gestión de una peluquería.
 ## Características 
 - Interfaz amigable con un estilo Material Design
 - Gestión de usuarios, productos, servicios, ventas y gastos
-- Encriptacion de la contraseña del administrador con el algoritmo AES
+- Encriptación de la contraseña del administrador con el algoritmo AES
 - Genera y lee código de barras
 - Imprime factura de venta
 - Genera grafica de ventas
