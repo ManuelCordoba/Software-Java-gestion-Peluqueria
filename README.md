@@ -8,7 +8,7 @@ Software desarrollado en java escritorio para la gestión de una peluquería.
 - Genera grafica de ventas
 - Genera backup de la base de datos
 ## Modulos
-### Splash screen
+### Splash Screen
 ![](https://scontent.fbog2-3.fna.fbcdn.net/v/t1.0-9/95085018_3132110186850957_3684435143663026176_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_eui2=AeHeCvo5hpC0fov0MUdWjVAwGgInQz7JWA4aAidDPslYDul_RBzRGc9kbgitOfVKk5AACJZxLfCnnuF5brmv0ZRH&_nc_ohc=WHOmnpECr1MAX8F5BVr&_nc_ht=scontent.fbog2-3.fna&oh=3372df3deec705803b90999f8aa115ae&oe=5ED0F37C)
 ### Login
 ![](https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/95017925_3132110066850969_6852912412903866368_o.jpg?_nc_cat=105&_nc_sid=730e14&_nc_eui2=AeFwnZRujdD5ZzIvDHseR5MZum4fwyN7vUq6bh_DI3u9SgtvlPLoYIxBf-pNUSIQs7StmrWurICuIy8eF6wMl7F4&_nc_ohc=os0LLoRU_DIAX8mHDyg&_nc_ht=scontent.fbog2-2.fna&oh=ae31d2593eabccb828f2bd717380cdc0&oe=5ED09ABB)
