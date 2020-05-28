@@ -25,9 +25,9 @@ Software desarrollado en java escritorio para la gestión de una peluquería.
 ### Reporte de Registros
 ![](https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/p960x960/95264828_3132110176850958_5945214290855198720_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_eui2=AeEg1hosMtpCCZw4qk9r0w0wit2jxnGMz-6K3aPGcYzP7jNEbTKQpEshAqrlZwuuk8IdIsF8yM8BXgjz6sL6zAZP&_nc_ohc=D1-N9J_yX3cAX9QId9E&_nc_ht=scontent.fbog2-2.fna&_nc_tp=6&oh=f8ce5d9d49cd73eb3289b74dbc108a8a&oe=5ED082D3)
 ### Nomina
-![](https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/p960x960/95781010_3132110153517627_4402985422846689280_o.jpg?_nc_cat=105&_nc_sid=730e14&_nc_eui2=AeEIhiVW31e6QT1_Ob_gMGRN87k0LJtox5vzuTQsm2jHmw5pcvs3VkWTTgRh0FiMv_qFsAXj9UGr_3zIRV_jAdQh&_nc_ohc=oMv7WAfrxQQAX848vYm&_nc_ht=scontent.fbog2-2.fna&_nc_tp=6&oh=25eba83a7aa1143f1891983543d6537c&oe=5ECFE963)
+![](https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/95781010_3132110153517627_4402985422846689280_o.jpg?_nc_cat=105&_nc_sid=730e14&_nc_ohc=ybKRUbxQXmYAX9SLs1l&_nc_ht=scontent.fbog2-2.fna&oh=88c6c7e7c40cdb2b2e02e3ab2761bcfe&oe=5EF3F256)
 ### Grafica de ventas mensuales
-![](https://scontent.fbog2-3.fna.fbcdn.net/v/t1.0-9/p960x960/95059091_3132110083517634_8262653797667438592_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_eui2=AeGaV3jNe293lofvT9XSgjRPsqMvJpNcrVeyoy8mk1ytV26v0NWAQCEWRFEN6LMwqCUTpbmPuFK16wC2oanTjqg7&_nc_ohc=pPTkEvTZwJQAX80j84h&_nc_ht=scontent.fbog2-3.fna&_nc_tp=6&oh=a2e0e016f3b9e483c28edc4efbb6b2da&oe=5ECF0D2D)
+![](https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/95059091_3132110083517634_8262653797667438592_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=5IENNwerfq4AX93bVGK&_nc_ht=scontent.fbog2-2.fna&oh=604a8617d47891d2bf9cae6c00ae8df4&oe=5EF4619C)
 
 
 
